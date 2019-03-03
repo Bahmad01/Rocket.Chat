@@ -1,10 +1,10 @@
 {
-	"name": "Rocket.Chat",
+	"name": "AXS Chat",
 	"description": "The Ultimate Open Source WebChat Platform",
 	"version": "1.0.0-develop",
 	"author": {
-		"name": "Rocket.Chat",
-		"url": "https://rocket.chat/"
+		"name": "Axs Chat",
+		"url": "https://axsmodern.com/"
 	},
 	"contributors": [
 		{
